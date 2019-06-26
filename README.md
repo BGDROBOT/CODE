@@ -1,9 +1,9 @@
-# 简要说明及效果展示
-![image](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/3.jpg)  
-### 原图1
-![image1](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/4.jpg)
-### 原图二
-![image2](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/2.png)
-### 效果一
-![image3](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/1.png）
-### 效果二
+## 运行环境 ***opencv3.4.1 visualstudio2019***
+
+## test.cpp 是主要源文件 stdafx.h为头文件
+
+# 下拉查看效果
+![image3](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/3.jpg)
+![image3](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/4.jpg)
+![image3](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/2.png)
+![image3](https://github.com/BGDROBOT/Recognition-of-red-and-blue-stripes/raw/master/1.png)
